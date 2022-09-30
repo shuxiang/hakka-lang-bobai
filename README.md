@@ -28,6 +28,24 @@
 | h /h/ 孝 | 不標 /Ø/ 愛    | |
 
 ## 韵母
+| 韵母 | 韵母 | 韵母 | 韵母 | 韵母 |
+| ---- | ---- | ---- | ---- | ---- |
+| a | ab | ai | ak | am |
+| an | ang | ap | at | au |
+| e | eu | em | en | ep |
+| et |  |   |  |  |
+| i | ia |  |  |  |
+| iak | iam | ian | iang | iap |
+| iat | iau | id | iem | ien |
+| iep | iet | im | in | ing |
+| iok | ion | iong | iot | ip |
+| it | iu | iuk | iun | iung |
+| iut |  |  |  |  | 
+| o | oi | ok | on |  | 
+| ong | op | ot |  |  | 
+| uai | uan | uang | uat | ug |
+| ui | uk | un | ung | uok |
+| uon | uong | ut | u | ua |
 
 ## 声调
 不同乡镇之间差异较大，仅作参考
