@@ -36,15 +36,14 @@
 | an | ang | ap | at | au |
 | e | eu | em | en | ep |
 | et |  |   |  |  |
-| i | ia |  |  |  |
+| i | ia | iu |  |  |
 | iak | iam | ian | iang | iap |
 | iat | iau | id | iem | ien |
 | iep | iet | im | in | ing |
 | iok | ion | iong | iot | ip |
-| it | iu | iuk | iun | iung |
-| iut |  |  |  |  | 
-| o | oi | ok | on |  | 
-| ong | op | ot |  |  | 
+| it | iut | iuk | iun | iung |
+| o | oi | ok | on | ot | 
+| ong | op |  |  |  | 
 | uai | uan | uang | uat | ug |
 | ui | uk | un | ung | uok |
 | uon | uong | ut | u | ua |
