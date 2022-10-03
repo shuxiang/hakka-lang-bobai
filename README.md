@@ -1,6 +1,6 @@
 # hakka-lang-bobai 博白客语拼音方案
 
-博白客语拼音方案由作者本人`shuxiang` 哔哩哔哩账号 [shuxiang29](https://space.bilibili.com/23428735) 注音并制作完成
+博白客语拼音方案由作者本人`shuxiang` 哔哩哔哩账号 [shuxiang](https://space.bilibili.com/23428735) 注音并制作完成
 
 注音主要根据NK2028Community社区的切韵数据和博白客语的演化对照关系进行自动推导，并完成了大部分字的人工校正
 
