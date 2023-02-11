@@ -8,7 +8,7 @@
 
 任何人可以在非商业项目中引用、使用、参考本开源项目的数据，但要注明[来源](https://github.com/shuxiang/hakka-lang-bobai)
 
-拼音为 `zu` `cu` `su`的字，其元音为舌尖元音 `ʉ`，其它信息可以到本人哔哩哔哩主页或搜索 [从《切韵》推导桂南客语（博白腔）](https://www.bilibili.com/video/BV1MU4y1C7U8/)
+拼音为 `zu` `cu` `su`的字，其元音为舌尖元音 `ʉ`，其它信息可以到本人哔哩哔哩主页或搜索 [从《切韵》推导桂南客语（博白腔）](https://www.bilibili.com/video/BV1tA411B74W/)
 
 欢迎下载本人制作的查询音韵的小工具 [广韵](http://47.96.118.117/static/guangyun.apk) ，地址复制到浏览器打开下载即可
 
@@ -58,7 +58,7 @@
 | vˊ | vˇ | v^ | vˋ|  vd^ |vdˋ|
 | 1  | 2  | 3  | 5  | 7 |  8 |
 
-## 参考文档:
+## 参考文档
 * 音系及IPA標法見：https://zhuanlan.zhihu.com/p/349914674
 * 拼音方案見：https://zhuanlan.zhihu.com/p/350459791
 * 推導規則描述：https://zhuanlan.zhihu.com/p/392372782
