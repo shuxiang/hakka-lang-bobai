@@ -32,23 +32,64 @@
 
 ## 韵母
 
-| 韵母 | 韵母 | 韵母 | 韵母 | 韵母 |
-| ---- | ---- | ---- | ---- | ---- |
-| a | ab | ai | ak | am |
-| an | ang | ap | at | au |
-| e | eu | em | en | ep |
-| et |  |   |  |  |
-| i | ia | iu |  |  |
-| iak | iam | ian | iang | iap |
-| iat | iau | id | iem | ien |
-| iep | iet | im | in | ing |
-| iok | ion | iong | iot | ip |
-| it | iut | iuk | iun | iung |
-| o | oi | ok | on | ot | 
-| ong | op |  |  |  | 
-| uai | uan | uang | uat | ug |
-| ui | uk | un | ung | uok |
-| uon | uong | ut | u | ua |
+### a组
+| 韵母 | 韵母 | 韵母 |
+| ---- | ---- | ---- |
+| a /a/ 阿[a1] | ai /ai/ 仔[zai3] | au /au/ 孝[hau5] |
+| an /an/ 烦[fan2] | ang /aŋ/ 横[vang2] | am /am/ 暗[am5] |
+| ap /ap/ 鸭[ap7] | at /at/ 达[tat8]   | ak /ak/ 划[vak8] |
+| ia /ia/ 夜[ia5] | iau /iau/ 料[liau5] |  |
+| ian /ian/ 员[ian2] | iang /iaŋ/ 青[ciang2] | iam /iam/ 帘[liam2] | 
+| iap /iap/ 接[ziap7] | iat /iat/ 折[ziat7]  | iak /iak/ 迹[ziak7] | 
+| ua /ua/ 瓜[gua1] | uai /uai/ 乖[guai1] |  |
+| uan /uan/ 惯[guan5] | uang /uaŋ/ 觥[guang1] |  |
+|  |  uat /uat/ 括[guat7] |  |
+
+### e组
+| 韵母 | 韵母 | 韵母 |
+| ---- | ---- | ---- |
+| e /e/ 犁[le2]  | eu /ɛu/ 欧[eu1] |  |
+| en /ɛn/ 恩[en1] | em /ɛm/ 森[sem1] |  |
+| ep /ɛp/ 戢[sep7] | et /ɛt/ 得[det7] |  |
+| ien /iɛn/ 连[lien2] |  |  iem /iɛm/ 𧮪[diem5] |
+| iep /iɛp/ 奊[liep8] | iet /iɛt/ 列[liet8] |  |
+| ui /ue/ 威[vui1] |  |  | 
+
+
+### i组
+| 韵母 | 韵母 | 韵母 |
+| ---- | ---- | ---- |
+| i /i/ 衣[i1]   | i /ɨ/ 济[zi5] |  |
+| in /in/ 因[in1] | im /im/ 今[gim1] |  |
+| ip /ip/ 十[ship8] | it /it/ 的[dit7] |  |
+
+
+### u组
+| 韵母 | 韵母 | 韵母 |
+| ---- | ---- | ---- |
+| u /u/ 图[tu2]   | u /ʉ/ 子[zu3] |  |
+| un /un/ 温[vun1] |  |  |
+|  | ut /ut/ 不[but7] | uk /uk/ 足[zuk7] |
+| iun /iun/ 群[kiun2] |  |  |
+|  |  iut /iut/ 屈[kiut7] | iuk /iuk/ 曲[kiuk7] |
+
+### o组
+| 韵母 | 韵母 | 韵母 |
+| ---- | ---- | ---- |
+| o /ɔ(o)/ 老[lo3] | oi /ɔi/ 爱[oi5] |  |
+| on /on/ 安[ɔn1] | ong /ɔŋ/ 江[gong1] | |
+|  | ot /ɔt/ 喝[hot7] | ok /ɔk/ 恶[ok7] |
+| ion /iɔn/ 全[cion2] | iong /iɔng/ 香[hiong1] |  |
+|  | iot /iɔt/ 掠[liot7] | iok /iɔk/ 却[kiok7] |
+| uon /uɔn/ 欢[fuon1] | uong /uɔŋ/ 光[guong1] |  |
+|  |  |  uok /uɔk/ 郭[guok7]  |
+| iu /iou/ 留[liu2] | ung /oŋ/ 东[dung1] | iung /ioŋ/ 穷[kiung2] |
+
+### 声化韵组
+| 韵母 | 韵母 | 韵母 |
+| ---- | ---- | ---- |
+| m /m/ 唔 |  n /n/ 汝 |  ng /ŋ/ 鱼 |
+
 
 ## 声调
 不同乡镇之间调值差异较大，仅作参考
@@ -57,7 +98,6 @@
 | ---- | ---- | ---- | ---- |  ---- |---- |
 | 詩衣 | 時移  | 使雨|  市意 | 濕一 | 食逸 |
 | 45 | 224 | 31 | 51 | 42 | 5 |
-| vˊ | vˇ | v^ | vˋ|  vd^ |vdˋ|
 | 1  | 2  | 3  | 5  | 7 |  8 |
 
 ## 参考文档
