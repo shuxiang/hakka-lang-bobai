@@ -60,7 +60,7 @@
 | 韵母 | 韵母 | 韵母 |
 | ---- | ---- | ---- |
 | i /i/ 衣[i1]   | i /ɨ/ 济[zi5] |  |
-| in /in/ 因[in1] | im /im/ 今[gim1] |  |
+| in /in/ 因[in1] |  | im /im/ 今[gim1] |
 | ip /ip/ 十[ship8] | it /it/ 的[dit7] |  |
 
 
