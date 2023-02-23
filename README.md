@@ -53,7 +53,7 @@
 | ep /ɛp/ 戢[sep7] | et /ɛt/ 得[det7] |  |
 | ien /iɛn/ 连[lien2] |  |  iem /iɛm/ 𧮪[diem5] |
 | iep /iɛp/ 奊[liep8] | iet /iɛt/ 列[liet8] |  |
-| ui /uɛi/ 威[vui1] |  |  | 
+| ui /uɛi/ 威[vui1] |  |  |
 
 
 #### i组
