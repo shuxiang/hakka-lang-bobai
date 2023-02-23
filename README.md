@@ -53,7 +53,7 @@
 | ep /ɛp/ 戢[sep7] | et /ɛt/ 得[det7] |  |
 | ien /iɛn/ 连[lien2] |  |  iem /iɛm/ 𧮪[diem5] |
 | iep /iɛp/ 奊[liep8] | iet /iɛt/ 列[liet8] |  |
-| ui /ue/ 威[vui1] |  |  | 
+| ui /uɛi/ 威[vui1] |  |  | 
 
 
 #### i组
@@ -70,6 +70,7 @@
 | u /u/ 图[tu2]   | u /ʉ/ 子[zu3] |  |
 | un /un/ 温[vun1] |  |  |
 |  | ut /ut/ 不[but7] | uk /uk/ 足[zuk7] |
+| iu /iu/ 留[liu2] |  |  |
 | iun /iun/ 群[kiun2] |  |  |
 |  |  iut /iut/ 屈[kiut7] | iuk /iuk/ 曲[kiuk7] |
 
@@ -83,7 +84,7 @@
 |  | iot /iɔt/ 掠[liot7] | iok /iɔk/ 却[kiok7] |
 | uon /uɔn/ 欢[fuon1] | uong /uɔŋ/ 光[guong1] |  |
 |  |  |  uok /uɔk/ 郭[guok7]  |
-| iu /iou/ 留[liu2] | ung /oŋ/ 东[dung1] | iung /ioŋ/ 穷[kiung2] |
+|  | ung /oŋ/ 东[dung1] | iung /ioŋ/ 穷[kiung2] |
 
 #### 声化韵组
 | 韵母 | 韵母 | 韵母 |
