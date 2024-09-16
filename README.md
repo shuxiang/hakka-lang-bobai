@@ -42,10 +42,10 @@
 | ap /ap/ 鸭[ap7] | at /at/ 达[tat8]   | ak /ak/ 划[vak8] |
 | ia /ia/ 夜[ia5] | iau /iau/ 料[liau5] |  |
 | ian /ian/ 员[ian2] | iang /iaŋ/ 青[ciang2] | iam /iam/ 帘[liam2] | 
-| iap /iap/ 接[ziap7] | `iat` /iat/ 折[ziat7]  | iak /iak/ 迹[ziak7] | 
-| `ua` /ua/ 瓜[gua1] | `uai` /uai/ 乖[guai1] |  |
-| `uan` /uan/ 惯[guan5] | `uang` /uaŋ/ 觥[guang1] |  |
-|  |  `uat` /uat/ 括[guat7] |  |
+| iap /iap/ 接[ziap7] | _iat_ /iat/ 折[ziat7]  | iak /iak/ 迹[ziak7] | 
+| _ua_ /ua/ 瓜[gua1] | _uai_ /uai/ 乖[guai1] |  |
+| _uan_ /uan/ 惯[guan5] | _uang_ /uaŋ/ 觥[guang1] |  |
+|  |  _uat_ /uat/ 括[guat7] |  |
 
 #### e组
 | 韵母 | 韵母 | 韵母 |
@@ -83,8 +83,8 @@
 |  | ot /ɔt/ 喝[hot7] | ok /ɔk/ 恶[ok7] |
 |  | iong /iɔng/ 香[hiong1] |  |
 |  | iot /iɔt/ 掠[liot7] | iok /iɔk/ 却[kiok7] |
-| `uon` /uɔn/ 欢[fuon1] | `uong` /uɔŋ/ 光[guong1] |  |
-|  |  |  `uok` /uɔk/ 郭[guok7]  |
+| _uon_ /uɔn/ 欢[fuon1] | _uong_ /uɔŋ/ 光[guong1] |  |
+|  |  |  _uok_ /uɔk/ 郭[guok7]  |
 
 
 #### 声化韵组
