@@ -32,6 +32,8 @@
 
 ## 韵母
 
+斜体部分为一部分人会带介音，一部分人不带介音
+
 #### a组
 | 韵母 | 韵母 | 韵母 |
 | ---- | ---- | ---- |
@@ -40,10 +42,10 @@
 | ap /ap/ 鸭[ap7] | at /at/ 达[tat8]   | ak /ak/ 划[vak8] |
 | ia /ia/ 夜[ia5] | iau /iau/ 料[liau5] |  |
 | ian /ian/ 员[ian2] | iang /iaŋ/ 青[ciang2] | iam /iam/ 帘[liam2] | 
-| iap /iap/ 接[ziap7] | iat /iat/ 折[ziat7]  | iak /iak/ 迹[ziak7] | 
-| ua /ua/ 瓜[gua1] | uai /uai/ 乖[guai1] |  |
-| uan /uan/ 惯[guan5] | uang /uaŋ/ 觥[guang1] |  |
-|  |  uat /uat/ 括[guat7] |  |
+| iap /iap/ 接[ziap7] | `iat` /iat/ 折[ziat7]  | iak /iak/ 迹[ziak7] | 
+| `ua` /ua/ 瓜[gua1] | `uai` /uai/ 乖[guai1] |  |
+| `uan` /uan/ 惯[guan5] | `uang` /uaŋ/ 觥[guang1] |  |
+|  |  `uat` /uat/ 括[guat7] |  |
 
 #### e组
 | 韵母 | 韵母 | 韵母 |
@@ -71,8 +73,7 @@
 | un /un/ 温[vun1] |  |  |
 |  | ut /ut/ 不[but7] | uk /uk/ 足[zuk7] |
 | iu /iu/ 留[liu2] |  |  |
-| iun /iun/ 群[kiun2] |  |  |
-|  |  iut /iut/ 屈[kiut7] | iuk /iuk/ 曲[kiuk7] |
+|  | ung /ʊŋ/ 东[dung1] |  |
 
 #### o组
 | 韵母 | 韵母 | 韵母 |
@@ -80,16 +81,16 @@
 | o /ɔ(o)/ 老[lo3] | oi /ɔi/ 爱[oi5] |  |
 | on /on/ 安[ɔn1] | ong /ɔŋ/ 江[gong1] | |
 |  | ot /ɔt/ 喝[hot7] | ok /ɔk/ 恶[ok7] |
-| ion /iɔn/ 全[cion2] | iong /iɔng/ 香[hiong1] |  |
+|  | iong /iɔng/ 香[hiong1] |  |
 |  | iot /iɔt/ 掠[liot7] | iok /iɔk/ 却[kiok7] |
-| uon /uɔn/ 欢[fuon1] | uong /uɔŋ/ 光[guong1] |  |
-|  |  |  uok /uɔk/ 郭[guok7]  |
-|  | ung /oŋ/ 东[dung1] | iung /ioŋ/ 穷[kiung2] |
+| `uon` /uɔn/ 欢[fuon1] | `uong` /uɔŋ/ 光[guong1] |  |
+|  |  |  `uok` /uɔk/ 郭[guok7]  |
+
 
 #### 声化韵组
 | 韵母 | 韵母 | 韵母 |
 | ---- | ---- | ---- |
-| m /m/ 唔 |  n /n/ 汝 |  ng /ŋ/ 鱼 |
+| m /m/ 唔 |  n /n/ 尔 |  ng /ŋ/ 鱼 |
 
 
 ## 声调
