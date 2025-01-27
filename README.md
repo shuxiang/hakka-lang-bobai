@@ -71,7 +71,7 @@
 | ---- | ---- | ---- |
 | u /u/ 图[tu2]   | u /ʉ/ 子[zu3] |  |
 | un /un/ 温[vun1] |  |  |
-|  | ut /ut/ 不[but7] | uk /uk/ 足[zuk7] |
+|  | ut /ut/ 不[but7] | uk /ʊk/ 足[zuk7] |
 | iu /iu/ 留[liu2] |  |  |
 |  | ung /ʊŋ/ 东[dung1] |  |
 
